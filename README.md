@@ -1,1 +1,1 @@
-# BT India Hackathon
+# BT India Data to AI Hackathon
